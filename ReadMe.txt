@@ -1,7 +1,7 @@
-This website is still in development. It will keep track of the project
-progress as well as supply additional contents for game developers.
+Using REACT to create website, I will post frequent updates to keep track of the game project.
+There will also be additional contect for game developers in hopes of making better use of them.
 
-To run the program simply download, open cmd, navigate to the folder,
+To run the website simply download, open cmd, navigate to the folder,
 and run 'npm start' command. Hope you all enjoy the program. If you are
 interested in playing the demo without opening the website simply visit
 the link below.
